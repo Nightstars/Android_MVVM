@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="start_btn">开始</string>
+    <string name="from">来源：</string>
+    <string name="desc">TODO</string>
+    <string name="feed_api_url">https://www.toutiao.com/api/pc/feed/</string>
+    <string name="news_url_prefix">https://www.toutiao.com/a</string>
+    <string name="translate">translate</string>
+    <string name="famous_say">名言：</string>
+    <string name="famous_name">名人：</string>
+    <string name="author">--</string>
+    <string name="famous_api_url">http://api.avatardata.cn/</string>
+</resources>
